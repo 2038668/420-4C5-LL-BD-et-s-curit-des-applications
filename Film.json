@@ -1,5 +1,6 @@
 {
   "Titre": "Les Minions",
+  "Description": " Minions Stuart, Kevin, and Bob are recruited by Scarlet Overkill, a supervillain who, alongside her inventor husband Herb, hatches a plot to take over the world.",
   "directeur": "Kyle Balda, Pierre Coffin",
   "Auteur": "Brian Lynch,",
   "Date": 2015,
@@ -18,6 +19,7 @@
     }
   ],
     "Titre2": "Fight Club",
+    "Description2": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
   "directeur2": "David Fincher",
   "Auteur2": "Jim Uhls",
   "Date2": 1999,
